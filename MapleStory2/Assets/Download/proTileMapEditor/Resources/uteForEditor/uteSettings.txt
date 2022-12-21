@@ -1,0 +1,1 @@
+1:erase:auto:512:512:isometric-perspective:byname:1.5:2:0
