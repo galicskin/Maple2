@@ -1,0 +1,3 @@
+1. 김프에서 입주변의 알파로 변경후 Treshold 를 0,
+opacity 또한 0으로 만들어준다.
+2. 적용한 material 에서 alpha clipping을 체크하고 조절해준다.
